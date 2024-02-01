@@ -1,3 +1,3 @@
 # My Project
 
-<iframe src="webanalysis/Home.html" width="100%" height="300"></iframe>
+<iframe src="webanalysis/Home.html" width="100%" height=auto></iframe>
