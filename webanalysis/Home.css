@@ -1,5 +1,8 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/3354300254c173a9c005fcc0f4d2545bae821b35983fe5d5f01173d6af5c8309aa6def2acf03a3125d49ca699697933e54c7d384af5e37887c4fd2_1280.jpg");
+  background-image:
+   linear-gradient(0deg, rgba(0,0,0,0.4), 
+                   rgba(0,0,0,0.4)), 
+   url("images/3354300254c173a9c005fcc0f4d2545bae821b35983fe5d5f01173d6af5c8309aa6def2acf03a3125d49ca699697933e54c7d384af5e37887c4fd2_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -67,17 +70,20 @@
 }
 
 .u-section-2 .u-over-slide-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, 
+                    rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
 .u-section-2 .u-over-slide-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, 
+                    rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
 .u-section-2 .u-over-slide-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(0deg, 
+                    rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
 
