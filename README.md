@@ -1,1 +1,1 @@
-<iframe src="webanalysis/index.html" height='1600' width='2560'></iframe>
+<iframe src="webanalysis/index.html" height='1280' width='1000'></iframe>
