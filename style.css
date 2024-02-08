@@ -29,8 +29,8 @@ header {
 }
 
 .logo {
-    font-size: 40px;
-    user-select: none;
+  width: 100px; /* Set the desired width */
+  height: auto; /* Automatically adjust the height to maintain aspect ratio */
 }
 
 .navigation a {
