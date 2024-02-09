@@ -30,7 +30,7 @@ header {
 
 .logo {
     user-select: none;
-
+    border-radius: 10%;
 }
 
 .navigation a {
