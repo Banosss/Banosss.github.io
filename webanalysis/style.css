@@ -29,7 +29,7 @@ header {
 }
 
 .logo {
-    font-size: 3px;
+    font-size: 3em;
     user-select: none;
     border-radius: 50%;
 }
