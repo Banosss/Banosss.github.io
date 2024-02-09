@@ -6,6 +6,24 @@
     font-family: 'Poppins',sans-serif;
 }
 
+
+
+<style>
+  /* 預設的 iframe 大小 */
+  iframe {
+    width: 1280px;
+    height: 2600px;
+  }
+
+  /* 在螢幕寬度小於600px的設備上設置不同的大小 */
+  @media (max-height: 1280px) {
+    iframe {
+      width: 1280px;
+      height: 1280px;
+    }
+  }
+</style>
+
 body{
     display: flex;
     justify-content: center;
