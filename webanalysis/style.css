@@ -8,7 +8,7 @@
 
 
 
-<style>
+
   /* 預設的 iframe 大小 */
   iframe {
     width: 1280px;
@@ -22,7 +22,7 @@
       height: 1280px;
     }
   }
-</style>
+
 
 body{
     display: flex;
